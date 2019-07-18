@@ -8,4 +8,3 @@ word='dog'
 console.log(word)
 var word='bird'
 window.word
-
